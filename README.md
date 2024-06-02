@@ -1,2 +1,2 @@
-# data-fun-06-eda
+# datafun-06-eda
 44608 Week 6 Project
