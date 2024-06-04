@@ -4,7 +4,10 @@
 Scott Williamson - June 3, 2024
 
 ## Introduction 
-Project utilizing Python and Jupyter Notebooks to conduct EDA on ..... data set.
+Project utilizing Python and Jupyter Notebooks to conduct EDA on seaborn Penguin data set.
+
+### Link to Data File Location
+[penguin.csv] (https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv)
 
 ## Project Start-up
 
