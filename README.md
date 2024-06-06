@@ -33,3 +33,6 @@ git add .
 git commit -m "...insert commit comment"
 git push origin main
 ```
+
+##
+This project was built to the following specifications: https://github.com/denisecase/datafun-06-spec
